@@ -9,7 +9,7 @@ Download the [Chrome webdriver](https://sites.google.com/a/chromium.org/chromedr
 ```
 driver = webdriver.Chrome()
 # change to:
-driver = webdriver.Chrome('/path/to/chromedriver')
+driver = webdriver.Chrome('/path/to/chromedriver.exe')
 ```
 ## Usage
 Example:
